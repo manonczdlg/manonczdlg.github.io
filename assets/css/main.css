@@ -68,8 +68,8 @@ a.button-solid:link, .button-solid:visited {
 } 
  
 a.button-solid:hover, .button-solid:active {
-    border-color: #403d50;
-    background-color: #403d50;
+    border-color: #FA5073;
+    background-color: #FA5073;
     color: #fff
 }
  

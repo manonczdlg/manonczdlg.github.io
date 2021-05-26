@@ -44,7 +44,7 @@
 /* Hero block height and spacing  */
 @media (min-width: 768px) {
 	.hero-block-two-columns { 
-        background-color: #fff;
+        background-color: #EEFFE3;
     }
 	.hero-block-two-columns h1 { margin-top: 2% }
  
@@ -68,7 +68,7 @@
 
 .hero-block-two-columns .item-2 h1 {
     font-family: 'Rubik', sans-serif; 
-    color: #2c3e50;
+    color: #FA5073;
 	font-weight: 600; 
 	line-height: 1.1;
     margin-bottom: 20px;
@@ -109,7 +109,7 @@
 
 /* Solid buttons */
 .container-btn .btn-solid:any-link {
-    background-color: #50e3c2; border-color:  #50e3c2; color: #222;
+    background-color: #C9F5D7; border-color:  #FA5073; color: #222;
 }
 
 .container-btn :is(.btn-solid:focus, .btn-solid:hover,.btn-solid:active) {
